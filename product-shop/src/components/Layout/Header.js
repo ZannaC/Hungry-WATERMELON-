@@ -10,9 +10,9 @@ const Header = (props) => {
       <header className={classes.header}>
         <h1 className={classes.choise}>
           Make your choise{" "}
-          <div class={classes["emoji-container"]}>
-            <span class={classes.emoji}>👀</span>
-            <span class={classes["emoji-watermelon"]}>🍉</span>
+          <div className={classes["emoji-container"]}>
+            <span className={classes.emoji}>👀</span>
+            <span className={classes["emoji-watermelon"]}>🍉</span>
           </div>
         </h1>
 

@@ -1,0 +1,22 @@
+.form {
+  text-align: right;
+}
+
+.mealItemUpdateButton {
+  margin-top: 1rem;
+  font: inherit;
+  cursor: pointer;
+  background-color: #383838;
+  border: 6px solid #9ae185;
+  color: white;
+  padding: 0.25rem 2rem;
+  border-radius: 20px;
+  font-weight: bold;
+  width: 14rem;
+}
+
+.mealItemUpdateButton:hover,
+.mealItemUpdateButton:active {
+  background-color: #867d7d;
+  border-color: #73de52;
+}
